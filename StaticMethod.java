@@ -1,7 +1,7 @@
 package com.p2;
 import java.io.*;
 import java.util.Scanner;
-class Student {
+public class Student {
 	static int id;
 	static String name;
 	
